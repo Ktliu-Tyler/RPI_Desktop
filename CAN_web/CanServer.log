@@ -1,0 +1,66 @@
+2025-08-25 01:21:57,959 - INFO - Starting FastAPI server on 0.0.0.0:8000
+2025-08-25 01:21:58,037 - INFO - FastAPI server starting up...
+2025-08-25 01:22:45,133 - INFO - New WebSocket connection. Total: 1
+2025-08-25 01:23:01,981 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 01:23:02,027 - INFO - New WebSocket connection. Total: 1
+2025-08-25 01:50:39,501 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 01:50:39,601 - INFO - FastAPI server shutting down...
+2025-08-25 01:52:30,625 - INFO - Starting FastAPI server on 0.0.0.0:8000
+2025-08-25 01:52:30,675 - INFO - FastAPI server starting up...
+2025-08-25 01:52:31,016 - INFO - New WebSocket connection. Total: 1
+2025-08-25 01:52:34,985 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 01:52:35,085 - INFO - FastAPI server shutting down...
+2025-08-25 02:11:35,572 - INFO - Starting FastAPI server on 0.0.0.0:8000
+2025-08-25 02:11:35,645 - INFO - FastAPI server starting up...
+2025-08-25 02:11:46,309 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:11:50,870 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:11:50,970 - INFO - FastAPI server shutting down...
+2025-08-25 02:24:51,479 - INFO - Starting FastAPI server on 0.0.0.0:8000
+2025-08-25 02:24:51,501 - INFO - FastAPI server starting up...
+2025-08-25 02:24:54,883 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:26:05,497 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:26:05,528 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:26:06,363 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:26:06,393 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:29:42,110 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:29:42,197 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:29:42,735 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:29:42,779 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:29:42,919 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:29:42,962 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:29:43,068 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:29:43,109 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:29:43,230 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:29:43,269 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:29:43,369 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:29:43,404 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:29:43,596 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:29:43,629 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:00,288 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:00,319 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:00,616 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:00,649 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:00,791 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:00,824 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:00,905 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:00,951 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:01,035 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:01,092 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:01,213 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:01,249 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:01,330 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:01,364 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:01,476 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:01,509 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:01,611 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:01,652 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:01,773 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:01,817 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:01,904 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:01,938 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:02,045 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:02,094 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:02,183 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:02,224 - INFO - New WebSocket connection. Total: 1
+2025-08-25 02:30:02,408 - INFO - WebSocket disconnected. Total: 0
+2025-08-25 02:30:02,444 - INFO - New WebSocket connection. Total: 1
