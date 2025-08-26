@@ -1,0 +1,3 @@
+[submodule "GUI-dev"]
+	path = GUI-dev
+	url = https://github.com/Ktliu-Tyler/rpi_can_monitor.git
