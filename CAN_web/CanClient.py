@@ -41,7 +41,7 @@ class CANDataSender:
             # 根據你的 CAN 介面調整 (can0, vcan0 等)
             self.can_bus = can.interface.Bus(
                 channel='can0',
-                bustype='socketcan',
+                interface='socketcan',
                 receive_own_messages=False
             )
             logger.info("CAN bus initialized successfully")
@@ -177,7 +177,6 @@ class CANDataSender:
                 self.can_bus.shutdown()
 
 async def main():
-    # 可以透過環境變數或設定檔調整 server URL
     import os
     # server_url = os.getenv('PI_B_URL', 'http://pi-b.tailscale:8000')
     server_url = "http://localhost:8000"
