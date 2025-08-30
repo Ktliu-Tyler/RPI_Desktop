@@ -1,0 +1,19 @@
+[Unit]
+Description=ROS2 GPS System with CAN Setup
+After=docker.service
+Requires=docker.service
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=5
+User=pi
+
+ExecStartPre=/usr/bin/docker start nturt_rpi
+
+ExecStartPre=/bin/sleep 3
+# 在容器內執行 ROS2 launch
+ExecStart=/usr/bin/docker exec nturt_rpi bash -c 'source install/setup.bash && ros2 launch gps_tracker launch_main.py'
+
+[Install]
+WantedBy=multi-user.target
