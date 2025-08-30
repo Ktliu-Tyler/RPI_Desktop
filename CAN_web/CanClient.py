@@ -26,7 +26,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class CANDataSender:
-    def __init__(self, server_url="http://pi-b.tailscale:8000"):
+    def __init__(self, server_url="http://100.97.75.73:8000"):
         self.server_url = server_url
         self.decoder = CanDecoder()
         self.session = None
@@ -179,7 +179,7 @@ class CANDataSender:
 async def main():
     import os
     # server_url = os.getenv('PI_B_URL', 'http://pi-b.tailscale:8000')
-    server_url = "http://localhost:8000"
+    server_url = "http://100.97.75.73:8000"
     sender = CANDataSender(server_url)
     await sender.run()
 
