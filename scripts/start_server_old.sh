@@ -6,4 +6,4 @@ VENV_DIR="/home/pi/Desktop/RPI_Desktop/env"
 
 cd $APP_DIR
 
-sudo /usr/bin/python3 GUIvehical.py
+sudo /usr/bin/python3 GUIvehical-v2.py
